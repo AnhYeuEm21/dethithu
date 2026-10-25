@@ -1,0 +1,7 @@
+# Vercel Ignore file
+*.py
+__pycache__/
+.git/
+.vscode/
+.idea/
+*.log
