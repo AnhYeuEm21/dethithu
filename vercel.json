@@ -2,9 +2,9 @@
   "version": 2,
   "cleanUrls": true,
   "trailingSlash": false,
-  "routes": [
-    { "src": "/", "dest": "/index.html" },
-    { "src": "/(.*)", "dest": "/index.html" }
+  "rewrites": [
+    { "source": "/mobile", "destination": "/mobile.html" },
+    { "source": "/m", "destination": "/mobile.html" }
   ],
   "headers": [
     {

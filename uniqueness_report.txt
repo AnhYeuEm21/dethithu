@@ -1,0 +1,18 @@
+=== Toan (100 de) ===
+Part 1: Total=1200, Unique=1200
+Part 2 titles: Total=400, Unique=400
+Part 2 items: Total=1600, Unique=1600
+Part 3: Total=600, Unique=600
+Part 4: Total=300, Unique=300
+=== Vat Ly (100 de) ===
+Part 1: Total=1800, Unique=1800
+Part 2 titles: Total=400, Unique=400
+Part 2 items: Total=1600, Unique=1600
+Part 3: Total=600, Unique=600
+Part 4: Total=300, Unique=300
+=== Hoa Hoc (100 de) ===
+Part 1: Total=1800, Unique=1800
+Part 2 titles: Total=400, Unique=400
+Part 2 items: Total=1600, Unique=1600
+Part 3: Total=600, Unique=600
+Part 4: Total=300, Unique=300
