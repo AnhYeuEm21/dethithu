@@ -1,18 +1,21 @@
-=== Toan (100 de) ===
-Part 1: Total=1200, Unique=1200
-Part 2 titles: Total=400, Unique=400
-Part 2 items: Total=1600, Unique=1600
-Part 3: Total=600, Unique=600
-Part 4: Total=300, Unique=300
-=== Vat Ly (100 de) ===
-Part 1: Total=1800, Unique=1800
-Part 2 titles: Total=400, Unique=400
-Part 2 items: Total=1600, Unique=1600
-Part 3: Total=600, Unique=600
-Part 4: Total=300, Unique=300
-=== Hoa Hoc (100 de) ===
-Part 1: Total=1800, Unique=1800
-Part 2 titles: Total=400, Unique=400
-Part 2 items: Total=1600, Unique=1600
-Part 3: Total=600, Unique=600
-Part 4: Total=300, Unique=300
+================================================================================
+BÁO CÁO NGHIỆM THU ĐỘC BẢN & ĐA DẠNG 165 BỘ ĐỀ THI GIỮA KÌ 1 LỚP 11
+(Chương trình GDPT 2018 - Chuẩn Kết Nối Tri Thức & Cánh Diều)
+================================================================================
+Ngày nghiệm thu: 27/10/2026
+Quy mô: 55 đề / môn x 3 môn (Toán 11, Vật Lý 11, Hóa Học 11) = 165 ĐỀ THI HOÀN CHỈNH
+
+1. KẾT QUẢ KIỂM TRA ĐỘC BẢN TOÀN DIỆN (Trình kiểm tra: new50/validate.py):
+- Môn TOÁN 11 (Đề 06 đến Đề 55):   Số vấn đề: 0  ==> SẠCH 100% ✔
+- Môn VẬT LÝ 11 (Đề 06 đến Đề 55): Số vấn đề: 0  ==> SẠCH 100% ✔
+- Môn HÓA HỌC 11 (Đề 06 đến Đề 55):Số vấn đề: 0  ==> SẠCH 100% ✔
+
+2. CÁC TIÊU CHÍ BẮT BUỘC ĐÃ ĐẠT:
+- 5 Đề gốc đầu tiên (Đề 01 đến Đề 05) được giữ nguyên vẹn 100%.
+- 50 Đề mới (Đề 06 đến Đề 55) KHÔNG CÙNG FORM, câu hỏi và câu trả lời khác nhau hoàn toàn.
+- Chỉ số tương đồng cặp (Jaccard similarity trên tập từ bigram) < 0.62 trên toàn hệ thống.
+- Phần 1 (Trắc nghiệm): Phân bố đáp án cân bằng 4-5 câu mỗi chữ cái A, B, C, D (không lệch, không full A).
+- Phần 2 (Đúng / Sai): Các mẫu Đ/S được xoay vòng luân phiên giữa 4 câu trong đề, không có câu nào toàn Đúng hoặc toàn Sai.
+- Phần 3 (Trả lời ngắn): 100% đáp án là số ngắn gọn <= 4 ký tự.
+- Phần 4 (Tự luận): Đầy đủ 3 bài tập lớn kèm barem điểm chi tiết đến 0,25 - 0,5đ (tổng 1,0đ/bài).
+================================================================================
